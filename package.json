@@ -1,5 +1,5 @@
 {
-  "name": "dir-loader",
+  "name": "dir-loader-es6",
   "version": "0.3.0",
   "description": "Load directories dynamically in Webpack",
   "main": "index.js",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sleexyz/dir-loader.git"
+    "url": "https://github.com/crisberrios/dir-loader"
   },
   "keywords": [
     "webpack",
@@ -34,7 +34,7 @@
   "author": "Sean Lee @sleexyz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sleexyz/dir-loader/issues"
+    "url": "https://github.com/crisberrios/dir-loader"
   },
-  "homepage": "https://github.com/sleexyz/dir-loader"
+  "homepage": "https://github.com/crisberrios/dir-loader"
 }

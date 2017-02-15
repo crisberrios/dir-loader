@@ -1,5 +1,7 @@
-dir-loader
+dir-loader-es6
 ========================
+
+#Forked from dir-loader to support babel 6 and UglifyJs
 
 [![Build Status](https://travis-ci.org/sleexyz/dir-loader.svg)](https://travis-ci.org/sleexyz/dir-loader)
 
